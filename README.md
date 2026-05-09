@@ -100,9 +100,23 @@ HR-Workforce-Analytics-Dashboard/
 - Improve dashboard design with more dynamic and automated visualizations
 - Integrate Power BI version of the dashboard for enhanced interactivity
 - Add predictive analytics to identify high-risk workforce patterns
-- Expand dataset size for deeper workforce and performance analysis
-- Include employee retention and engagement score analysis
-- Automate data refresh and reporting workflow using Excel Power Query
-- Add comparative analysis across departments and workforce categories
+
+---
+
+## 👩‍💻 Author
+
+**Bhargavi Tare**
+
+GitHub: [https://github.com/bhargavi-insights](https://github.com/bhargavi-insights)
+
+---
+
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repo
+- 🚀 Share it
 
 ---
